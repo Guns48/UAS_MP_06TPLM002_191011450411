@@ -110,4 +110,3 @@ class _BeritaScreenState extends State<BeritaScreen> {
     );
   }
 }
-//#safrurozakycode
